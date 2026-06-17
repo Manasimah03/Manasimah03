@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Manasi 👋</h1>
-<h3 align="center">Final-Year CS Student • Aspiring Blue Team / Security Engineer</h3>
+<h3 align="center">Final-Year CS Student • Aspiring red Team / Security Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=600&lines=Detecting+threats+before+they+detect+me;SOC+%7C+SIEM+%7C+Network+Security;Building+a+cybersecurity+portfolio+from+scratch;Currently+chasing%3A+Security%2B+%E2%86%92+eJPT+%E2%86%92+OSCP" alt="Typing SVG" />
@@ -15,7 +15,7 @@
 
 ### 🔭 About Me
 
-I'm a final-year Computer Science student graduating in 2026, with hands-on training from an **Ethical Hacking & Penetration Testing internship** at Rooman Technologies. I'm building toward **Blue Team and Security Engineering** roles — the side of security focused on detection, defense, and making attackers' lives harder.
+I'm a final-year Computer Science student graduating in 2026, with hands-on training from an **Ethical Hacking & Penetration Testing internship** at Rooman Technologies. I'm building toward **red Team and Security Engineering** roles — the side of security focused on detection, defense, and making attackers' lives harder.
 
 I started with theory and have been deliberately stacking hands-on projects since: log analysis, email threat detection, VPN/network security, and offensive labs to understand both sides of the fight.
 
@@ -112,4 +112,4 @@ Built a complete Cisco IPSec VPN connecting two simulated LANs (HO ↔ Branch), 
 
 ---
 
-<p align="center"><i>Open to Blue Team, SOC Analyst, and Security Engineering opportunities — let's connect!</i></p>
+<p align="center"><i>Open to Red Team, SOC Analyst, and Security Engineering opportunities — let's connect!</i></p>
